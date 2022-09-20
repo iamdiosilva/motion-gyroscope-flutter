@@ -1,4 +1,4 @@
-# hero_animation
+# Motion Gyroscope
 
 A new Flutter project.
 
